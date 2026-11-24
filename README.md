@@ -1,6 +1,9 @@
 # DSC212: Modularity on the Karate Club Graph
+
 **Name:** Swaraj Ajayrao Dhale
+
 **Roll no:** IMS25066
+
 **Course:** DS212
 
 ## Introduction
